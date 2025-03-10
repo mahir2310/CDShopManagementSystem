@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\C#LabCodes\\CDShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|E:\\C#LabCodes\\CDShop\\cdshop\\cdmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|E:\\C#LabCodes\\CDShop\\cdshop\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|e:\\c#labcodes\\cdshop\\cdshop\\cdmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\cdmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|e:\\c#labcodes\\cdshop\\cdshop\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|E:\\C#LabCodes\\CDShop\\cdshop\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|E:\\C#LabCodes\\CDShop\\cdshop\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\alluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|E:\\C#LabCodes\\CDShop\\cdshop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{626303E0-7FC4-4952-BD84-4953DB7A0018}|CDShop\\CDShop.csproj|solutionrelative:cdshop\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,18 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManagement.cs [Design]",
-              "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\UserManagement.cs",
-              "RelativeDocumentMoniker": "CDShop\\UserManagement.cs",
-              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\UserManagement.cs [Design]",
-              "RelativeToolTip": "CDShop\\UserManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:26:16.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\Employee.cs",
               "RelativeDocumentMoniker": "CDShop\\Employee.cs",
@@ -125,19 +114,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CDManagement.cs [Design]",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\CDManagement.cs",
               "RelativeDocumentMoniker": "CDShop\\CDManagement.cs",
-              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\CDManagement.cs [Design]*",
-              "RelativeToolTip": "CDShop\\CDManagement.cs [Design]*",
+              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\CDManagement.cs [Design]",
+              "RelativeToolTip": "CDShop\\CDManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T09:39:04.775Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CDManagement.cs",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\CDManagement.cs",
               "RelativeDocumentMoniker": "CDShop\\CDManagement.cs",
@@ -145,12 +134,11 @@
               "RelativeToolTip": "CDShop\\CDManagement.cs*",
               "ViewState": "AgIAADYAAAAAAAAAAAAowFoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:36:43.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T09:36:43.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\Login.cs",
               "RelativeDocumentMoniker": "CDShop\\Login.cs",
@@ -161,19 +149,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Billing.cs [Design]",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\Billing.cs",
               "RelativeDocumentMoniker": "CDShop\\Billing.cs",
               "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\Billing.cs [Design]",
               "RelativeToolTip": "CDShop\\Billing.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:31:31.095Z",
+              "WhenOpened": "2025-01-28T04:31:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllUser.cs [Design]",
+              "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\AllUser.cs",
+              "RelativeDocumentMoniker": "CDShop\\AllUser.cs",
+              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\AllUser.cs [Design]",
+              "RelativeToolTip": "CDShop\\AllUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:20:37.206Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "UserManagement.cs [Design]",
+              "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\UserManagement.cs",
+              "RelativeDocumentMoniker": "CDShop\\UserManagement.cs",
+              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\UserManagement.cs [Design]",
+              "RelativeToolTip": "CDShop\\UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:26:16.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Employee.cs [Design]",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\Employee.cs",
               "RelativeDocumentMoniker": "CDShop\\Employee.cs",
@@ -184,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BillDetailsUC.cs [Design]",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\BillDetailsUC.cs",
               "RelativeDocumentMoniker": "CDShop\\BillDetailsUC.cs",
@@ -192,17 +202,6 @@
               "RelativeToolTip": "CDShop\\BillDetailsUC.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T10:23:01.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AllUser.cs [Design]",
-              "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\AllUser.cs",
-              "RelativeDocumentMoniker": "CDShop\\AllUser.cs",
-              "ToolTip": "E:\\C#LabCodes\\CDShop\\CDShop\\AllUser.cs [Design]",
-              "RelativeToolTip": "CDShop\\AllUser.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:20:37.206Z"
             },
             {
               "$type": "Document",
@@ -229,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BillDetailsUC.cs",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\BillDetailsUC.cs",
               "RelativeDocumentMoniker": "CDShop\\BillDetailsUC.cs",
@@ -241,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Billing.cs",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\Billing.cs",
               "RelativeDocumentMoniker": "CDShop\\Billing.cs",
@@ -265,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AllUser.cs",
               "DocumentMoniker": "E:\\C#LabCodes\\CDShop\\CDShop\\AllUser.cs",
               "RelativeDocumentMoniker": "CDShop\\AllUser.cs",
@@ -273,7 +272,8 @@
               "RelativeToolTip": "CDShop\\AllUser.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:50:45.995Z"
+              "WhenOpened": "2025-01-28T09:50:45.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
