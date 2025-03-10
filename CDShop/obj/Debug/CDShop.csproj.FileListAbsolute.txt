@@ -1,0 +1,17 @@
+E:\C#LabCodes\CDShop\CDShop\bin\Debug\CDShop.exe.config
+E:\C#LabCodes\CDShop\CDShop\bin\Debug\CDShop.exe
+E:\C#LabCodes\CDShop\CDShop\bin\Debug\CDShop.pdb
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.csproj.AssemblyReference.cache
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.Admin.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.AllUser.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.BillDetailsUC.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.Billing.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.CDManagement.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.Employee.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.Login.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.Properties.Resources.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.UserManagement.resources
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.csproj.GenerateResource.cache
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.csproj.CoreCompileInputs.cache
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.exe
+E:\C#LabCodes\CDShop\CDShop\obj\Debug\CDShop.pdb
